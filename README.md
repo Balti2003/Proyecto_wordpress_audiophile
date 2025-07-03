@@ -26,3 +26,29 @@ Este repositorio contiene los archivos de un sitio web desarrollado con WordPres
 ## Nota
 
 No se incluyen imágenes o medios del sitio (`wp-content/uploads`) por motivos de peso. Puedes añadirlos si los necesitas.
+
+## 🖼️ Capturas de pantalla
+
+### Home
+![Página de inicio](images/home1.png)
+![Página de inicio](images/home2.png)
+![Página de inicio](images/home3.png)
+![Página de inicio](images/home4.png)
+![Página de inicio](images/home5.png)
+
+### Headphones
+![Página de headphones](images/headphones1.png)
+![Página de headphones](images/headphones2.png)
+
+### Speakers
+![Página de headphones](images/speakers1.png)
+
+### Earphones
+![Página de earphones](images/earphones1.png)
+
+### Product
+![Página de producto](images/product1.png)
+![Página de producto](images/product2.png)
+
+### Cart
+![Página de carrito](images/cart.png)
