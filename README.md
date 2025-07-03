@@ -10,27 +10,9 @@ Este proyecto fue creado como práctica personal para aprender a trabajar con Wo
 
 - Sitio basado en el diseño original de [Audiophile](https://audiophile-ecommerce.vercel.app/) (referencia online).
 - Maquetado para escritorio (desktop) con diseño **responsive** adaptado a **tablets**.
-- Desarrollo realizado con **WordPress clásico** (no se usó Elementor ni constructores).
+- Desarrollo realizado con **WordPress** 
 - Base de datos exportada y lista para importar en otro entorno local.
 - Funcionalidades: navegación por categorías, carrito de compras simulado, detalles de producto, y más.
-
----
-
-## 📁 Estructura del Repositorio
-
-```
-wordpress-audiophile/
-├── wp-admin/
-├── wp-content/
-│   ├── themes/ (tema personalizado)
-│   └── plugins/
-├── database/
-│   └── backup.sql (archivo de base de datos)
-├── images/ (capturas de pantalla)
-├── wp-config.php
-├── README.md
-└── .gitignore
-```
 
 ---
 
